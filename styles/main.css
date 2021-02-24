@@ -152,3 +152,36 @@
 	top: 80px;
 	left: 300px;
 }
+
+.box3{
+	position: relative;
+	width: 1406px;
+ 	height: 779px;
+ 	background-color: #306B34;
+}
+
+.imsedit{
+	position: absolute;
+	top: 170px;
+	left: 160px;
+}
+
+.h1edit{
+	position: absolute;
+	top: 170px;
+	left: 1000px;
+	font-size: 40px;
+	color: #19381F; 
+}
+
+
+.p2edit{
+	position: absolute;
+	height: 291px;
+	width: 306px;
+	font-size: 20px;
+	color: #F4F4F1;
+	left: 1000px;
+	top: 300px;
+
+}
