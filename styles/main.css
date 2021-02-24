@@ -112,6 +112,43 @@
 .insta{
 	position: absolute;
 	top: 52px;
-	left: 1250px;
+	left: 1270px;
 
+}
+
+.tw{
+	position: absolute;
+	top: 52px;
+	left: 1300px;
+
+}
+
+.fb{
+	position: absolute;
+	top: 52px;
+	left: 1330px;
+
+}
+
+.box2{
+	position: relative;
+}
+
+.about{
+	position: absolute;
+	height: 187px;
+	width: 706px;
+	background-color: white;
+	font-size: 40px;
+	bottom: 110px;
+	left: 350px;
+}
+
+
+.pedit{
+	position: absolute;
+	font-size: 40px;
+	color: black;
+	top: 80px;
+	left: 300px;
 }
