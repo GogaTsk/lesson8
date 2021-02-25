@@ -185,3 +185,122 @@
 	top: 300px;
 
 }
+
+.box4{
+	position: relative;
+	width: 1406px;
+ 	height: 617px;
+ 	background-color: white;
+}
+
+.h2edit{
+	position: absolute;
+	color: #36413E;
+	font-size: 40px;
+	left: 500px;
+	top: 100px;
+
+
+
+}
+
+.pppe{
+	position: absolute;
+	width: 696px;
+	height: 247px;
+	color: #7F7F7F;
+	font-size: 20px;
+	left: 300px;
+	top: 300px;
+
+}
+
+.pxe{
+	position: absolute;
+	width: 696px;
+	height: 247px;
+	color: #7F7F7F;
+	font-size: 20px;
+	left: 420px;
+	top: 410px;
+}
+
+.pxe2{
+	position: absolute;
+	width: 696px;
+	height: 247px;
+	color: #7F7F7F;
+	font-size: 20px;
+	left: 300px;
+	top: 440px;
+}
+
+
+.pppe2{
+	position: absolute;
+	width: 148px;
+	height: 48px;
+	background-color: #36413E;
+	color: white;
+	font-size: 12px;
+	left: 550px;
+	top: 520px;
+
+}
+
+
+.pppe3{
+	position: absolute;
+	color: white;
+	font-size: 12px;
+	top: 20px;
+	left: 25px;
+}
+
+.box5{
+	position: relative;
+	width: 1406px;
+	height: 76px;
+	background-color: #306B34;
+}
+
+.fedit{
+	position: absolute;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+	top: 35px;
+	left: 30px;
+}
+
+.fedit2{
+	position: absolute;
+	color: white;
+	font-size: 10px;
+	top: 35px;
+	left: 500px;
+}
+
+.fedit3{
+	position: absolute;
+	color: white;
+	font-size: 10px;
+	top: 35px;
+	left: 570px;
+}
+
+.fedit4{
+	position: absolute;
+	color: white;
+	font-size: 10px;
+	top: 35px;
+	left: 640px;
+}
+
+.fedit5{
+	position: absolute;
+	color: white;
+	font-size: 10px;
+	top: 35px;
+	left: 710px;
+}
